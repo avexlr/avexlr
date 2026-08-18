@@ -1,6 +1,6 @@
 <div align="center">
 
-![IMG_4153.gif](https://media.discordapp.net/attachments/966744452179841026/1532093830893932676/IMG_4153.gif?ex=6a820292&is=6a80b112&hm=916d60e5234a24142341bcbdbb215953e1ffdc329802a03ab55d9cb9da1dfe1b&=)
+![IMG_4153.gif](https://cdn.discordapp.com/attachments/966744452179841026/1532093830893932676/IMG_4153.gif?ex=6a854e52&is=6a83fcd2&hm=d8014ae92d5df5889fa831c1989881d50ea59c507e6b6c33302d575abb63a8cd)
 
 <div align="center">
 
