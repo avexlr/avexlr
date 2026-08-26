@@ -13,7 +13,7 @@
 </div>
 
 <div class="links">
-straw<a href="https://angelicdoll3.straw.page/" target="_blank">page</a>
+straw<a href="https://hauntinghyuna.straw.page/" target="_blank">page</a>
 &nbsp;୨୧&nbsp;
 ata<a href="https://barelygyu.atabook.org/" target="_blank">book</a>
 </div>
