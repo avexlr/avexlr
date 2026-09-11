@@ -26,7 +26,7 @@ ata<a href="https://barelygyu.atabook.org/" target="_blank">book</a>
 
 <div align="right">
 <span style="font-size:10px; color:#b8b8b8;">
-꒰੭୧ layout by kirokumiku ੭୧꒱
+
 </span>
 </div>
 
