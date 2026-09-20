@@ -1,6 +1,5 @@
 <div align="center">
-
-![IMG_4153.gif](https://cdn.discordapp.com/attachments/966744452179841026/1532093830893932676/IMG_4153.gif?ex=6a869fd2&is=6a854e52&hm=1155a10f7ff20e1f9b617565cc2fd7c10c57586073efc2e9362629b4f621313b)
+<img src="https://cdn.discordapp.com/attachments/966744452179841026/1551294225583186101/IMG_4875.png?ex=6ab172d5&is=6ab02155&hm=20c68898b8bd8fcbde4a4a6595a8a37781c37a5da490abf8e1a670c5bfdd0d53" width="500">
 
 <div align="center">
 
